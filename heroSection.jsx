@@ -1,5 +1,4 @@
 
-Action: file_editor create /app/frontend/src/components/HeroSection.jsx --file-text "import React from 'react';
 import { ChevronDown } from 'lucide-react';
 
 const HeroSection = () => {
@@ -81,3 +80,4 @@ const HeroSection = () => {
 };
 
 export default HeroSection;
+
